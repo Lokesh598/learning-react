@@ -4,3 +4,8 @@
    ```
       npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
    ```
+#### How to use chakra:
+     In app.tsx we have to add root tag in our application.
+     ```
+        <ChakraProvider><ChakraProvider/>
+     ```
